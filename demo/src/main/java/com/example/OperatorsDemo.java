@@ -5,6 +5,7 @@ public class OperatorsDemo {
         int a = 30;
         int b = 20;
 
-        System.out.println();
+        System.out.println("addition: " + (a + b));
+        System.out.println("Subtraction: " + (a - b));
     }
 }
