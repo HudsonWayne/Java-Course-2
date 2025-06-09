@@ -7,5 +7,6 @@ public class OperatorsDemo {
 
         System.out.println("addition: " + (a + b));
         System.out.println("Subtraction: " + (a - b));
+        System.out.println("Multiplication: " + (a * b));
     }
 }
