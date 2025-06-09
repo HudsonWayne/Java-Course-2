@@ -9,6 +9,7 @@ public class StudentMarks {
         double average = (double) total / 2.0;
 
         System.out.println("Math marks: " + math);
+        System.out.println("Science marks: " + science);
 
 
 
