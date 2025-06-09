@@ -13,5 +13,8 @@ public class OperatorsDemo {
 
          // Comparison
         System.out.println("Is a equal to b? " + (a == b));
+        System.out.println("Is a not equal to b? " + (a != b));
+        System.out.println("Is a greater than b? " + (a >
+        b));
     }
 }
