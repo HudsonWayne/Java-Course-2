@@ -10,6 +10,7 @@ public class StudentMarks {
 
         System.out.println("Math marks: " + math);
         System.out.println("Science marks: " + science);
+        System.out.println("Total marks: " + total);
 
 
 
