@@ -6,7 +6,9 @@ public class StudentMarks {
         int science = 70;
         
         int total = math + science;
-        double averege = (double) total / 2.0;
+        double average = (double) total / 2.0;
+
+        System.out.println("Math marks: " + math);
 
 
 
