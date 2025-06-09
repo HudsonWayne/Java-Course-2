@@ -14,6 +14,9 @@ public class StudentMarks {
         System.out.println("Average: " + average);
 
 
+        if (average >= 50){
+            System.out.println("Student passed");
+        }
 
     }
     
