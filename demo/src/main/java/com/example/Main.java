@@ -2,13 +2,19 @@ package com.example;
 
 public class Main {
     public static void main(String[] args) {
-        int age = 25;
+        int age = 30;
         double height = 1.75;
-        String name = "John";
-        boolean isJave = true;
+        char grade = 'A';
+        boolean isJavaFun = true;
+        String name = "Wayne";
 
 
 
-        System.out.println("Hello, Wayne! Welcome to Java!");
+        System.out.println("Name: " + name);
+        System.out.println("Age: " + age);
+        System.out.println("Height: " + height);
+        System.out.println("Grade: " + grade);
+        System.out.println("Is Java fun? " + isJavaFun);
+
     }
 }
