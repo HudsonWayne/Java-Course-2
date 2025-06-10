@@ -37,6 +37,8 @@ public class ConditionalStatements {
             case 2:
                 System.out.println("Tuesday");
                 break;
+            default :
+                System.out.println("Unknown day");
         }
 
 
