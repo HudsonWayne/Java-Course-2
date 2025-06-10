@@ -12,6 +12,13 @@ public class Loops {
             i++;
         }
 
+        //Do while
+        int j = 0;
+        do{
+            System.out.println("Count: " + j);
+            j++;
+        } while(j < 5);
+
 
     }
     
