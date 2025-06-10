@@ -6,5 +6,10 @@ public class ConditionalStatements {
         if(age>=18){
             System.out.println("You are an adult");
         }
+
+        int marks = 45;
+        if(marks>=50){
+            System.out.println("You passed");
+        }
     }
 }
