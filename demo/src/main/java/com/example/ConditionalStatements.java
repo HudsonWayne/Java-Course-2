@@ -13,5 +13,11 @@ public class ConditionalStatements {
         }else{
             System.out.println("You failed");
         }
+
+        int score = 75;
+        
+
+
+
     }
 }
